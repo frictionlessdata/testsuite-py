@@ -12,6 +12,7 @@ to the GitHub master branch and PyPi of the following packages:
 - `tabulator-py` (under development)
 - `jsontableschema-py` (under development)
 - `jsontableschema-bigquery-py` (under development)
+- `jsontableschema-pandas-py` (under development)
 - `jsontableschema-sql-py` (under development)
 - `datapackage-py` (under development)
 
